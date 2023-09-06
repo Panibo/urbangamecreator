@@ -4,4 +4,6 @@ Our project plans to supply the tools of detailing all kinds of information that
 
 The most well known example of this kind of real world game board game is The Amazing Race. This application should support similar games.
 
+[Trello board plan](https://trello.com/invite/b/5NGj0exD/ATTI5253c32ab6ac05e1aaf1f64227ad2b44ED5FC72B/web-2-project)
+
 # urbangamecreator
